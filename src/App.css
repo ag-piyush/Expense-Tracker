@@ -149,3 +149,20 @@ input[type='number'] {
 .list li:hover .delete-btn {
   opacity: 1;
 }
+
+footer {
+  position: fixed;
+  height: 40px;
+  width: 100%;
+  background-color: #C1D3D7;
+  bottom:0;
+}
+
+p.copyright {
+  position: absolute;
+  width: 100%;
+  color: black;
+  line-height: 15px;
+  font-size: 0.9em;
+  text-align: center;
+}
